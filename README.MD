@@ -4,6 +4,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 
-<img src="https://i.ibb.co/HnM0wjJ/Screenshot-2021-12-02-180020.png" alt="countdownTIMER">
+<img src="https://i.ibb.co/qRqgbZX/Screenshot-2021-12-02-180020.png" alt="countdownTIMER">
 
 > Project CountDown Timer for New Year eve.
