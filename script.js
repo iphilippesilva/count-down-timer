@@ -5,7 +5,7 @@ const minEl = document.getElementById('minutes')
 const secondsEl = document.getElementById('seconds')
 
 
-const newYears = '1 jan 2023'
+const newYears = '1 jan 2025'
 
 
 function setCountDown(){
